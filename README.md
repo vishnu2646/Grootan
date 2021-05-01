@@ -4,7 +4,7 @@ The app is created in Reactjs
 
 # Modules:
     1. Login Page(initial)
-    2. Register Page(rgister Page fao the user)
+    2. Register Page(register Page for the user)
     3. User List View
     4. Detail View
 
