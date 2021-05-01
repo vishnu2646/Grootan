@@ -16,7 +16,8 @@ Once the Register Button is pressed then Click the login link which is present b
 
 # LOGIN Instruction 
 
-login with the detail provided in the time of register
+login with the detail provided in the time of register. This redidirects you 
+To the Home page where you can see all the users list
 
 # Main Page 
 
