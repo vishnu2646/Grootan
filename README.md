@@ -12,7 +12,7 @@ The App uses the LocalStorage for the storing the regiser Details
 
 # You can Login and before it you must register with the required details
 
-Once After the  Button is pressed then Click the login link which is present below the register button
+Once the Register Button is pressed then Click the login link which is present below the register button
 
 # LOGIN Instruction 
 
