@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.shadow-md{
+  width:500px;
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; 
+  margin-top: 10%;
+}
+
+@media(max-width:576px){
+  .shadow-md{
+    width:350px;
+  }
+}
