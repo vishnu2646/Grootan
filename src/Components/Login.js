@@ -4,8 +4,12 @@ import { Link } from 'react-router-dom'
 const Login = () => {
 
     const userData = JSON.parse(localStorage.getItem('user'));
-    const u_name = userData.name
-    const pwd = userData.password
+    let u_name;
+    let pwd;
+    if (userData) {
+        u_name = userData.name;
+        pwd = userData.password;
+    }
 
     const [username,setUsername] = useState('') 
     const [password,setPassword] = useState('') 
